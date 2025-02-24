@@ -68,7 +68,7 @@ This is the actual playlist ID (Correct):
 
 ## Results
 
-After running the script, you will get a CSV for each playlist ID you entered.
+After running the script, it will save a CSV for each playlist ID you entered at the destination you specified.
 
 ![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/csv-files.png?raw=true)
 

@@ -11,6 +11,7 @@ $clientSecret = "clientSecret-here"
 $playlistId = @("playlistID-1","playlistID-2","playlistID-3")
 
 # Enter the destination folder where the CSV files will be saved and do not include a filename
+# Make sure the filepath ends in a slash: /
 $destination = "C:/path/to/destination/"
 
 ###############################  ENTER YOUR DETAILS HERE  ###############################

@@ -10,7 +10,11 @@ Are you afraid of losing access to your Spotify playlists, or having some songs 
 ![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/missing-songs2.PNG?raw=true)
 
 
-This script won't prevent your songs from getting deleted, but at least it can save your playlist information so that you can rebuild your playlist from scratch if you need to.
+This script won't prevent your songs from getting deleted, but at least it can save your playlist information to a CSV so that you can rebuild your playlist from scratch if you need to.
+
+Here's what the inside of a CSV looks like.
+
+![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/inside-csv.png?raw=true)
 
 ## How Do I Use This Script?
 Download and open a copy of this script in your preferred environment (E.g. VS Code).
@@ -67,6 +71,4 @@ After running the script, you will get a CSV for each playlist ID you entered.
 
 ![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/csv-files.png?raw=true)
 
-Here's what the inside of a CSV looks like. That's it!
-
-![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/inside-csv.png?raw=true)
+And you're done!

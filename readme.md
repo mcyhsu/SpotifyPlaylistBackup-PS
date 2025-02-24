@@ -11,7 +11,7 @@ Next, you need to know 3 things:
 
 Just replace the placeholder values with these at the top of the script.
 
-
+![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/fill-in-information.png?raw=true)
 
 Then, when you run the script, it will save the information for all tracks in the playlist to a CSV file, one CSV for each playlist ID entered.
 
@@ -34,6 +34,21 @@ Once you're in the App Dashboard, click on **Settings**
 Finally, click on **View client secret** to show your Client ID and Secret.
 
 ![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/client-id-and-secret.png?raw=true)
+
+## Where Can I Find the Spotify Playlist ID?
+
+The playlist ID is included in the URL. We only want the **playlist ID**, NOT the full URL!
+
+This is the full URL (Incorrect):
+```
+https://open.spotify.com/playlist/3BwgXaIGhTd7EfZB4Ju0Vp
+```
+We want the string of characters after "https://open.spotify.com/playlist/". 
+
+This is the actual playlist ID (Correct):
+```
+3BwgXaIGhTd7EfZB4Ju0Vp
+```
 
 ## Results
 

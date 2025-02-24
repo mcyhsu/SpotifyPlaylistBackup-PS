@@ -1,3 +1,4 @@
+# Spotify Playlist Backup Script - PowerShell
 ## What Does This Script Do?
 This script backs up the tracks of a Spotify playlist to a CSV file.
 

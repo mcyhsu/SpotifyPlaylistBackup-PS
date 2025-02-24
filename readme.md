@@ -1,8 +1,19 @@
 ## What Does This Script Do?
 This script backs up the tracks of a Spotify playlist to a CSV file.
 
+## What Problem Does This Script Solve?
+
+Are you afraid of losing access to your Spotify playlists, or having some songs removed with no way of knowing which ones? ([Picture source](https://community.spotify.com/t5/Other-Podcasts-Partners-etc/Songs-disappear-and-are-impossible-to-play/td-p/5162188))
+
+![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/missing-songs.PNG?raw=true)
+
+![](https://github.com/mcyhsu/SpotifyPlaylistBackup-PS/blob/main/Assets/missing-songs2.PNG?raw=true)
+
+
+This script won't prevent your songs from getting deleted, but at least it can save your playlist information so that you can rebuild your playlist from scratch if you need to.
+
 ## How Do I Use This Script?
-First, open the script in your preferred environment (E.g. VS Code).
+Download and open a copy of this script in your preferred environment (E.g. VS Code).
 
 Next, you need to know 3 things:
 1. **Your Spotify Client ID and Secret**

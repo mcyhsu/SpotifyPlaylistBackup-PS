@@ -2,12 +2,11 @@
 
 ###############################  ENTER YOUR DETAILS HERE  ###############################
 
-# Get the client ID and secret from the Spotify Developer Dashboard
+# Get the client ID and secret from the Spotify Developer Dashboard: https://developer.spotify.com/dashboard
 $clientId = "clientID-here"
 $clientSecret = "clientSecret-here"
 
 # Enter one or more playlist IDs here, separated by commas, but don't leave a trailing comma for the last one
-# The playlist ID can be found in the Spotify app by right-clicking on a playlist and selecting "Copy Spotify URI"
 # MAKE SURE THE PLAYLIST IS PUBLIC or the API won't be able to access it
 $playlistId = @("playlistID-1","playlistID-2","playlistID-3")
 

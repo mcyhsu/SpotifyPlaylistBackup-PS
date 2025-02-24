@@ -101,7 +101,7 @@ foreach($playlist in $playlistId) {
     }
     
     # Get the current date and time
-    $currentTime = Get-Date -Format "yy-MM-dd-HH-mm"
+    $currentTime = Get-Date -Format "yyyy-MM-dd-HH-mm"
 
     # Combine playlist title and current time to form the file name
     $fileName = "$sanitizedTitle-$currentTime"
